@@ -8,6 +8,7 @@
   
 - 📫 How to reach me nikitamaurya2506@gmail.com
 
+<br>
 ## Technologies:
 
 <p>
