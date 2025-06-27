@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="./github-title.png" width="40%" alt="Hello, I'm Nikita." />
+  <img src="./github-title.png" width="32%" alt="Hello, I'm Nikita." />
 </p><br />
 
-
 - 🌱 I’m currently learning machine learning and data science
-- 🔗 Visit my Portfolio at [https://sun-andsky.github.io/Portfolio/](https://sun-andsky.github.io/Portfolio/)
+- 🔗 You can see my Projects at [my portfolio](https://sun-andsky.github.io/Portfolio/)
 - 📫 How to reach me nikitamaurya2506@gmail.com
 
 ## Technologies:
@@ -28,7 +27,7 @@
 </p>
 
 <p>
-  <strong> Database & Tools &nbsp;</strong>
+  <strong> Database & Tools    &nbsp;  </strong>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/></code>
@@ -37,7 +36,7 @@
 </p>
 
 <p>
-  <strong> Libraries</strong>
+  <strong> Libraries   &nbsp;  </strong>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="25" /></code>
@@ -46,6 +45,18 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/></code>
 </p>
+
+<br>
+
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sun-andsky&show_icons=true&theme=tokyonight" width="100%"/></td>
+    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sun-andsky&show_icons=true&theme=tokyonight" alt="Nikita"width="100%" /></td>
+  </tr>
+</table>
+
+
 
 
 
