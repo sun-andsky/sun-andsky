@@ -9,7 +9,7 @@
 <h3>Tech Stack</h3>
 
 <p>
-  <strong>💻 Frontend:&nbsp;</strong>
+  <strong>Frontend:&nbsp;</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> 
@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <strong>🧩 Backend:&nbsp;</strong>
+  <strong>Backend:&nbsp;</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/> 
@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  <strong>🗃️ Database & Tools:&nbsp;</strong>
+  <strong>Database & Tools:&nbsp;</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> 
@@ -33,7 +33,7 @@
 </p>
 
 <p>
-  <strong>🔍 Scripting & Automation:&nbsp;</strong>
+  <strong>Scripting & Automation:&nbsp;</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="25"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/>
 </p>
