@@ -3,7 +3,9 @@
 </p><br />
 
 - 🌱 I’m currently learning machine learning and data science
+  
 - 🔗 You can see my Projects at [my portfolio](https://sun-andsky.github.io/Portfolio/)
+  
 - 📫 How to reach me nikitamaurya2506@gmail.com
 
 ## Technologies:
