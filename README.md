@@ -7,10 +7,11 @@
 - 🔗 You can see my Projects at [my portfolio](https://sun-andsky.github.io/Portfolio/)
   
 - 📫 How to reach me nikitamaurya2506@gmail.com
+</br>
 
-<br>
 ## Technologies:
 
+</br>
 <p>
   <strong>Languages &nbsp;</strong>
   <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="25"/></code>
