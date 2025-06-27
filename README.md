@@ -8,30 +8,38 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<h3>🛠️ Tech Stack</h3>
 
-**Frontend:**  
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="20" alt="chartjs" src="https://raw.githubusercontent.com/github/explore/master/topics/chartjs/chartjs.png"></code>
-<code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>
+<p>
+  <strong>💻 Frontend:&nbsp;</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/> React &nbsp;</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML &nbsp;</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS &nbsp;</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript</code>
+</p>
 
-**Backend & Automation:**  
-<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"></code>
-<code><img height="20" alt="playwright" src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/static/logo.png"></code>
+<p>
+  <strong>🧩 Backend:&nbsp;</strong>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25"/> Django &nbsp;</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python &nbsp;</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/> Node.js &nbsp;</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25"/> Express</code>
+</p>
 
-**Databases & Tools:**  
-<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="postman" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
+<p>
+  <strong>🗃️ Database & Tools:&nbsp;</strong>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25"/> MongoDB &nbsp;</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> Git &nbsp;</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> VS Code &nbsp;</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25"/> Pandas</code>
+</p>
+
+<p>
+  <strong>🔍 Scripting & Automation:&nbsp;</strong>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="25"/> Playwright &nbsp;</code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> BeautifulSoup</code>
+</p>
+
 
 
 
