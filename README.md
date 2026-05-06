@@ -53,14 +53,6 @@
 <br>
 
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sun-andsky&show_icons=true&theme=tokyonight" width="100%"/></td>
-    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sun-andsky&show_icons=true&theme=tokyonight" alt="Nikita"width="100%" /></td>
-  </tr>
-</table>
-
-
 
 
 
