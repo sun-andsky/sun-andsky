@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-title.png" width="32%" alt="Hello, I'm Nikita." />
+  <img src="./Banner.png" width="100%" alt="Hello, I'm Nikita." />
 </p><br />
 
 - 🌱 I’m currently learning machine learning and data science
