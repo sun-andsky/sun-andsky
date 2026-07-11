@@ -9,53 +9,25 @@
 - 📫 How to reach me nikitamaurya2506@gmail.com
 </br>
 
-## Technologies:
-
-</br>
-<p>
-  <strong>Languages &nbsp;</strong>
-  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="25"/></code>
-  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="25" /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/></code>
+<p align="center">
+      <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=cpp,py,css,html,js,nodejs,fastapi,mysql,mongodb,postgres,postman,tensorflow,docker,git,vscode&perline=8&theme=light" />
+      </a>
 </p>
 
-<p>
-  <strong>Web dev &nbsp;</strong>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> </code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25"/></code>
-</p>
-
-<p>
-  <strong> Database & Tools    &nbsp;  </strong>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="25"/></code>
-</p>
-
-<p>
-  <strong> Libraries   &nbsp;  </strong>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="25" /></code>
-  <code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="25"/></code>
-  <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="25"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/></code>
-</p>
-
-<br>
+<p align="center">
 
 
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=sun-andsky&show_icons=true&theme=merko&border_color=599200">
 
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=sun-andsky&theme=merko&border=599200">
 
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=sun-andsky&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
+<img src="https://komarev.com/ghpvc/?username=sun-andsky&color=0E9C47&style=for-the-badge">
 
 
 
