@@ -2,12 +2,14 @@
   <img src="./Banner.png" width="100%" alt="Hello, I'm Nikita." />
 </p><br />
 
-- 🌱 I’m currently learning machine learning and data science
+- 🟩 I’m currently learning Agentic AI & Exploring GenAI
   
-- 🔗 You can see my Projects at [my portfolio](https://sun-andsky.github.io/Portfolio/)
+- 🟪 Diving deep into data? Checkout my [my portfolio](https://sun-andsky.github.io/Portfolio/) 
   
-- 📫 How to reach me nikitamaurya2506@gmail.com
+- 🟦 PING ME nikitamaurya2506@gmail.com | [Linkedin](https://www.linkedin.com/in/nikita-maurya-bb8491347/)
 </br>
+
+
 
 <p align="left">
       <a href="https://skillicons.dev">
